@@ -10,3 +10,4 @@ play l4d2.2016/11/15
 play l4d2.2016/11/16
 go to friend'(lcj)s home.2016/11/17
 play computer games. I can't do things like this.2016/11/18
+play computer games.2016/11/19
